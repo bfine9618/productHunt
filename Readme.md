@@ -1,4 +1,4 @@
-***Data.world Product Hunt dataset analysis***
+**Data.world Product Hunt dataset analysis**
 
 The datasets I used are too big to store on github. Please download from https://data.world/exercises/producthunt-exercise.
 
